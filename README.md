@@ -2,7 +2,7 @@
 
 This is an old theme I modified from the default theme. I liked it.
 
-### Dependacies
+### Dependencies
 
 Uses the default theme that comes with the forum installer.
 
@@ -19,4 +19,4 @@ Uses the default theme that comes with the forum installer.
 
 ### Notes
 
-There may be some bugs so if you know how to fix them, open an issue post.
+There may be some bugs so if you know how to fix them, please open an issue post.
